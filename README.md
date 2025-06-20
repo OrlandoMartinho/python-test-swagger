@@ -7,7 +7,7 @@ This is a RESTful API project built with **Flask**, integrated with:
 - **PostgreSQL** (relational database)
 - **Flask-SQLAlchemy** (ORM)
 - **Flask-RESTX** (Swagger-style documentation)
-- **Pydantic** (data validation like Zod in JavaScript)
+- **Pydantic** (data validation )
 
 
 
@@ -30,7 +30,7 @@ This is a RESTful API project built with **Flask**, integrated with:
 | Flask              | Lightweight web framework              |
 | Flask-RESTX        | REST routing + Swagger UI              |
 | Flask-SQLAlchemy   | ORM for database interaction           |
-| Pydantic           | Data validation (Zod-like)             |
+| Pydantic           | Data validation           |
 | PostgreSQL         | Relational database                    |
 
 ---
